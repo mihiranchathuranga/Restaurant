@@ -16,7 +16,7 @@
 	<url>http://restaurant.virtualpairprogrammers.com</url>
 
 	<properties>
-		<tomcat.version>9.0.26</tomcat.version>
+		<tomcat.version>9.0.35</tomcat.version>
 	</properties>
 
 	<build>
